@@ -7,7 +7,7 @@
 </p>
 
 <p>
-  ► Arxiv <b>[ Global Folder ]</b> <br>
+  ► GIT <b>[ Global Folder ]</b> <br>
      ╠ index.php <b>[ Main code for Webhook ]</b> <br>
      ╚ include <b>[ Include Folder ]</b> <br>
         ╠ config.php <b>[ BOT and ADMIN informations ]</b> <br>
