@@ -5,7 +5,7 @@
 <p>
   Dasturchilarning eng yaxshi ko'rgan odati c/p bo'lgani uchun ushbu tayyor kodlarni yukladim. Sababi bu kodlar <b>PHP Telegram bot</b>larining standart holati. Barchasi shunchaki   dasturchilar vaqtini tejash uchundir!
 </p>
-
+<img src='https://img.shields.io/github/downloads/blogchik/telegram-bot/total' alt='Downloads'>
 <p>
   ► GIT <b>[ Global Folder ]</b> <br>
      ╠ index.php <b>[ Main code for Webhook ]</b> <br>
@@ -22,7 +22,9 @@
 </a>
 
 <hr>
-
+<img src='https://img.shields.io/github/followers/blogchik?style=social' alt='Followers'>
+<img src='https://img.shields.io/github/stars/blogchik/telegram-bot?style=social' alt='Stars'>
+<img src='https://img.shields.io/github/watchers/blogchik/telegram-bot?style=social' alt='Watchers'>
 <code>
   Code by BlogChik
 </code>
