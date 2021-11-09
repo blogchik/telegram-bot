@@ -17,6 +17,4 @@ date_default_timezone_set('Asia/Tashkent');
 $time = date('H:i');
 $date = date('d.m.Y');
 
-echo "Hello World!";
-
 ?>
