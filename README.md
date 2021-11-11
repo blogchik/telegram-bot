@@ -17,10 +17,6 @@
         ╚ varibles.php <b>[ php://input Varibles ]</b> <br>
 </p>
 
-<a href='https://github.com/blogchik/telegram_bot/raw/main/Telegtam%20Bot.rar'>
-  » Yuklab Olish «
-</a>
-
 <hr>
 <img src='https://img.shields.io/github/followers/blogchik?style=social' alt='Followers'>
 <img src='https://img.shields.io/github/stars/blogchik/telegram-bot?style=social' alt='Stars'>
